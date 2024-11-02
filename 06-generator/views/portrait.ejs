@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件上傳</title>
+</head>
+<body>
+    <h1>文件上傳</h1>
+    <hr>
+    <form action="/portrait" method="post" enctype="multipart/form-data">
+        用戶名: <input type="text" name="username">
+        <hr>
+        頭像: <input type="file" name="portrait">
+        <hr>
+        <button type="submit">提交</button>
+    </form>
+</body>
+</html>
