@@ -1,7 +1,7 @@
 <!--
  * @Author: Gusty a0985209465@gmail.com
  * @Date: 2024-10-09 16:44:00
- * @LastEditTime: 2024-11-02 22:31:57
+ * @LastEditTime: 2024-11-06 23:04:17
  * @LastEditors: Gusty a0985209465@gmail.com
  * @FilePath: \GitHub\study-nodeJS\lecture\00_我的GGYY.md
  * @Description: 上課遇到需要對我來說要特別注意的點，紀錄一下
@@ -182,5 +182,3 @@ curl -X POST http://localhost:3000/cats -H "Content-Type: application/json" -d '
 ```bash
 curl http://localhost:3000/cats
 ```
-
-## mongoDB
